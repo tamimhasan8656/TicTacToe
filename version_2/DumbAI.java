@@ -1,7 +1,7 @@
 /**
  * Realization of AI interface using simplistic random placement strategy.
  *
- * @author INSERT YOUR NAME(S) HERE
+ * @author Md. Tamim Hasan
  */
 
 import java.util.Random;

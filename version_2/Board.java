@@ -1,7 +1,7 @@
-/**
+﻿/**
  * An immutable class that represents the state of the 3×3 tic-tac-toe board.
  *
- * @author INSERT YOUR NAME(S) HERE
+ * @author Md. Tamim Hasan
  */
 
 public class Board {

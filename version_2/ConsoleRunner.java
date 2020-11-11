@@ -1,10 +1,10 @@
-/**
+﻿/**
  * ConsoleRunner:  Prompts the user to determine the parameters of the Game
  * constructor.  Creates a Game and manages the alternating calls to the
  * ‘place’ methods in Game.  Prompts the user for inputs and outputs the state
  * of the board to the console.
  *
- * @author INSERT YOUR NAME(S) HERE
+ * @author Md. Tamim Hasan
  */
 
 import java.util.Scanner;
